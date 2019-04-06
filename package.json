@@ -1,0 +1,33 @@
+{
+  "name": "the_natural",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "1.4.3",
+    "@material-ui/icons": "2.0.2",
+    "global": "^4.3.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-reveal": "1.2.2",
+    "react-scripts": "2.1.8",
+    "react-scroll": "1.7.9",
+    "react-slick": "0.23.1",
+    "surge": "^0.20.3",
+    "upath": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
